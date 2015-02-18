@@ -5,7 +5,6 @@ to perform mechanical tasks for the Exalted 3rd Edition roleplaying game. Curren
 
 TODO:
 
-* Parse messages from channel
 * Implement character skills
 * Implement Character objects
 * Implement builder for characters
